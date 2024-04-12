@@ -1,1 +1,1 @@
-# newTestGithub.github.io
+This is my first Github repository. A github repository can be similar to a portfolio because it can contain many different files if needed to hold projects or other things, and it must have an index.HTML file. In addition, all Github repositories must have the .github.io extension. 
